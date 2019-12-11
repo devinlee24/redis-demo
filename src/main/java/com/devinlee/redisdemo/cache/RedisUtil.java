@@ -8,6 +8,11 @@ import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Component;
 import org.springframework.util.CollectionUtils;
 
+/**
+ * Redis API
+ * @author Devin Lee
+ * 20191211
+ */
 @Component
 public class RedisUtil {
 
