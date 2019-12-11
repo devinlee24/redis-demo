@@ -14,7 +14,7 @@ import org.springframework.data.redis.serializer.StringRedisSerializer;
 
 /**
  * Redis初始化设置
- * @author Devin Lee 
+ * @author Devin Lee
  * 20191211
  */
 @Configuration
