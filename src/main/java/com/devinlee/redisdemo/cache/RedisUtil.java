@@ -19,7 +19,7 @@ public class RedisUtil {
     @Autowired
     private RedisTemplate<String, Object> redisTemplate;
 
-    //===============缓存时间相关方法===============
+    //===============缓存相关方法===============
 
     //指定缓存失效时间
     public boolean expire(String key, long time) {
